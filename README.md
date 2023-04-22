@@ -1,6 +1,6 @@
 # Retail-Management-
 
-Trailhead UPL's
+Trailhead URL's
 
 Team lead    -https://trailblazer.me/id/pravg28
 Team member 1-https://trailblazer.me/id/ngunasekaran4
